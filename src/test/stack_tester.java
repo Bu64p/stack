@@ -12,7 +12,7 @@ public class stack_tester {
 		myStack.push("C");
 		myStack.push("D");
 		/*
-		 * order of enter:
+		 *  order of enter:
 		 * 1. A
 		 * 2. B
 		 * 3. C
@@ -23,7 +23,7 @@ public class stack_tester {
 		System.out.println((String)myStack.pop());
 		System.out.println((String)myStack.pop());
 		/*
-		 * order of pop:
+		 *  order of pop:
 		 * 1.D
 		 * 2.C
 		 * 3.B
