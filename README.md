@@ -10,6 +10,16 @@ The order in which elements come off a stack gives rise to its alternative name,
 
 [wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 
+#  Methods:
+
+| Command | Description |
+| ---------- | --------- |
+| `stack() : void` | create a stack |
+| `push(Object value) : void` | insert ```value``` to stack |
+| `pop() : Object` | delete the top node and return its value |
+| `getTop() : Object` | get the value of the item on top of the stack |
+| `getSize() : int` | get the size of stack|
+
 #  
  compiled in Java16. 
 
