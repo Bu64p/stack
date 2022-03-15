@@ -19,7 +19,7 @@ The order in which elements come off a stack gives rise to its alternative name,
 | `pop() : Object` | delete the top node and return its value |
 | `getTop() : Object` | get the value of the item on top of the stack |
 | `getSize() : int` | get the size of stack|
-
+> if stack is empty and use pop() method, you will get an exception.
 #  
  compiled in Java16. 
 
